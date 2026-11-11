@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "TXN001",
+      "timestamp": "2024-01-15T23:30:00Z",
+      "amount": 15000.00,
+      "currency": "USD",
+      "country": "US",
+      "customer_id": "CUST001",
+      "account_type": "PERSONAL",
+      "transaction_type": "WIRE_TRANSFER"
+    },
+    {
+      "transaction_id": "TXN002",
+      "timestamp": "2024-01-15T14:00:00Z",
+      "amount": 500.00,
+      "currency": "EUR",
+      "country": "IR",
+      "customer_id": "CUST002",
+      "account_type": "BUSINESS",
+      "transaction_type": "PAYMENT"
+    },
+    {
+      "transaction_id": "TXN003",
+      "timestamp": "2024-01-15T09:00:00Z",
+      "amount": 200.00,
+      "currency": "USD",
+      "country": "GB",
+      "customer_id": "CUST003",
+      "account_type": "PERSONAL",
+      "transaction_type": "PAYMENT"
+    },
+    {
+      "transaction_id": "TXN004",
+      "timestamp": "2024-01-15T23:45:00Z",
+      "amount": 25000.00,
+      "currency": "USD",
+      "country": "KP",
+      "customer_id": "CUST004",
+      "account_type": "BUSINESS",
+      "transaction_type": "WIRE_TRANSFER"
+    },
+    {
+      "transaction_id": "TXN005",
+      "timestamp": "2024-01-15T11:00:00Z",
+      "amount": 8000.00,
+      "currency": "GBP",
+      "country": "SY",
+      "customer_id": "CUST005",
+      "account_type": "PERSONAL",
+      "transaction_type": "PAYMENT"
+    },
+    {
+      "transaction_id": "TXN006",
+      "timestamp": "2024-01-15T22:30:00Z",
+      "amount": 300.00,
+      "currency": "USD",
+      "country": "US",
+      "customer_id": "CUST006",
+      "account_type": "PERSONAL",
+      "transaction_type": "PAYMENT"
+    },
+    {
+      "transaction_id": "TXN007",
+      "timestamp": "2024-01-15T10:00:00Z",
+      "amount": 50000.00,
+      "currency": "USD",
+      "country": "US",
+      "customer_id": "CUST007",
+      "account_type": "BUSINESS",
+      "transaction_type": "WIRE_TRANSFER"
+    },
+    {
+      "transaction_id": "TXN008",
+      "timestamp": "2024-01-15T23:00:00Z",
+      "amount": 12000.00,
+      "currency": "EUR",
+      "country": "IR",
+      "customer_id": "CUST008",
+      "account_type": "BUSINESS",
+      "transaction_type": "WIRE_TRANSFER"
+    }
+  ]
+}

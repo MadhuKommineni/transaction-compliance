@@ -1,0 +1,9 @@
+rule_id,rule_name,field,operator,value,severity
+R001,large_transaction,amount,gt,10000,HIGH
+R002,high_risk_country,country,in,"IR,KP,SY",HIGH
+R003,after_hours_transaction,timestamp.hour,gt,22,MEDIUM
+R004,very_large_transaction,amount,gt,40000,CRITICAL
+R005,small_payment,amount,lt,1000,LOW
+R006,wire_transfer,transaction_type,eq,WIRE_TRANSFER,MEDIUM
+R007,business_account,account_type,eq,BUSINESS,LOW
+R008,non_usd_transaction,currency,neq,USD,LOW
